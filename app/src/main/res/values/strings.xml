@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">光光浏览器</string>
+    <string name="url_hint">搜索或输入网址</string>
+</resources>
